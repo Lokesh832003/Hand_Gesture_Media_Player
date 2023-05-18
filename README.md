@@ -7,4 +7,4 @@ The current mappings are -
 👆Point - Previous  
 🤏Pinch - Volume  
 
-This model is very easy and convenient to use. This is especially useful for specially-abled people. It can work even while the window is minimized, making it possible to control the playback without any clicks. Although it takes up a lot of resources to run, it is reliable. In the future, I would like to map more gestures to functions, make it less computationally expensive and integrate an API with which a user make choose their own songs.
+This model is very easy and convenient to use. This is especially useful for specially-abled people. It can work even while the window is minimized, making it possible to control the playback without any clicks. Although it takes up a lot of resources to run, it is reliable. In the future, I would like to map more gestures to functions, make it less computationally expensive and integrate an API with which a user may choose their own songs.
